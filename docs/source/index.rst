@@ -17,6 +17,12 @@ Contents
 --------
 
 .. toctree::
+   Control-Science
+   Computer-Science
+   ML-DL-NLP-ws
+   System-Compile-Environment
+   Experiment-dev
+   Demo-dev
+   Slam-dev
+   Robot-Ros-dev
 
-   slam-dev
-   ros-dev
